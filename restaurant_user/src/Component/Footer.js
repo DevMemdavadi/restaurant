@@ -7,7 +7,7 @@ function Footer() {
                 <div className="container py-xl-4">
                     <div className="row footer-top">
                         <div className="col-lg-4 footer-grid_section_1its footer-text">
-                            <h2>
+                            <h2> 
                                 <a className="logo text-wh" href="">
                                     <img src="images/logo.png" alt="Tasty Burger Logo" className="img-fluid" />
                                     <span>Tasty</span> Burger
