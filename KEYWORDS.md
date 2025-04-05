@@ -1,4 +1,4 @@
-# SEO Keywords for Restaurant Website Project
+
 
 This project is a **Restaurant Website built using ReactJS**, connected to a **PHP backend API** and a **MySQL database**.
 
